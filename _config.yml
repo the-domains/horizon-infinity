@@ -1,0 +1,28 @@
+name: Horizon Infinity
+favicon: null
+layout_spectrum: 0.6585258627310395
+typography_spectrum: 0.20621181256137788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09835425089113414
+  lightness: 0.17915336298756301
+  saturation: 0.8885049582459033
+  rhythmicContrast: 0.7769101753365248
+purpose: []
