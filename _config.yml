@@ -1,7 +1,7 @@
 name: Horizon Infinity
 favicon: null
-layout_spectrum: 0.6585258627310395
-typography_spectrum: 0.20621181256137788
+layout_spectrum: 0.74785
+typography_spectrum: 0.48744
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#35373a'
+    - '#212224'
+    - '#484848'
+    - '#5a5a5a'
   brandStrength: 0.09835425089113414
   lightness: 0.17915336298756301
   saturation: 0.8885049582459033
